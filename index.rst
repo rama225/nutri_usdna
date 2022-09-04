@@ -9,7 +9,7 @@ Nutrition Database Modernization
 ********************************
 
 :Website: `Food labeling services <http://ontomatica.io>`_
-:Author: `Jay Gray <https://github.com/jaygray0919>`_
+:Author: `Tarakarama <https://github.com/rama225>`_
 :Organization: `Ontomatica <http://ontomatica.io>`_
 :Date: 26 February 2022
 
